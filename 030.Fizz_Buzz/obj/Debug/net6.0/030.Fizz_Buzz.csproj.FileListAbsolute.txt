@@ -1,0 +1,15 @@
+C:\HTL\Htl cooding\030.Fizz_Buzz\bin\Debug\net6.0\030.Fizz_Buzz.exe
+C:\HTL\Htl cooding\030.Fizz_Buzz\bin\Debug\net6.0\030.Fizz_Buzz.deps.json
+C:\HTL\Htl cooding\030.Fizz_Buzz\bin\Debug\net6.0\030.Fizz_Buzz.runtimeconfig.json
+C:\HTL\Htl cooding\030.Fizz_Buzz\bin\Debug\net6.0\030.Fizz_Buzz.dll
+C:\HTL\Htl cooding\030.Fizz_Buzz\bin\Debug\net6.0\030.Fizz_Buzz.pdb
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.csproj.AssemblyReference.cache
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.AssemblyInfoInputs.cache
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.AssemblyInfo.cs
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.dll
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\refint\030.Fizz_Buzz.dll
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.pdb
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\030.Fizz_Buzz.genruntimeconfig.cache
+C:\HTL\Htl cooding\030.Fizz_Buzz\obj\Debug\net6.0\ref\030.Fizz_Buzz.dll

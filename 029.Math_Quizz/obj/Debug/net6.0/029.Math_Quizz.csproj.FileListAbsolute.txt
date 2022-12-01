@@ -1,0 +1,15 @@
+C:\HTL\Htl cooding\029.Math_Quizz\bin\Debug\net6.0\029.Math_Quizz.exe
+C:\HTL\Htl cooding\029.Math_Quizz\bin\Debug\net6.0\029.Math_Quizz.deps.json
+C:\HTL\Htl cooding\029.Math_Quizz\bin\Debug\net6.0\029.Math_Quizz.runtimeconfig.json
+C:\HTL\Htl cooding\029.Math_Quizz\bin\Debug\net6.0\029.Math_Quizz.dll
+C:\HTL\Htl cooding\029.Math_Quizz\bin\Debug\net6.0\029.Math_Quizz.pdb
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.csproj.AssemblyReference.cache
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.AssemblyInfoInputs.cache
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.AssemblyInfo.cs
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.csproj.CoreCompileInputs.cache
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.dll
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\refint\029.Math_Quizz.dll
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.pdb
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\029.Math_Quizz.genruntimeconfig.cache
+C:\HTL\Htl cooding\029.Math_Quizz\obj\Debug\net6.0\ref\029.Math_Quizz.dll

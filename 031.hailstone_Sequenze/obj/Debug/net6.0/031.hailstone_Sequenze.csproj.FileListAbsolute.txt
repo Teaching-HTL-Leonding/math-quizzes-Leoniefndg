@@ -1,0 +1,15 @@
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.csproj.AssemblyReference.cache
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.AssemblyInfoInputs.cache
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.AssemblyInfo.cs
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.csproj.CoreCompileInputs.cache
+C:\HTL\Htl cooding\031.hailstone_Sequenze\bin\Debug\net6.0\031.hailstone_Sequenze.exe
+C:\HTL\Htl cooding\031.hailstone_Sequenze\bin\Debug\net6.0\031.hailstone_Sequenze.deps.json
+C:\HTL\Htl cooding\031.hailstone_Sequenze\bin\Debug\net6.0\031.hailstone_Sequenze.runtimeconfig.json
+C:\HTL\Htl cooding\031.hailstone_Sequenze\bin\Debug\net6.0\031.hailstone_Sequenze.dll
+C:\HTL\Htl cooding\031.hailstone_Sequenze\bin\Debug\net6.0\031.hailstone_Sequenze.pdb
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.dll
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\refint\031.hailstone_Sequenze.dll
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.pdb
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\031.hailstone_Sequenze.genruntimeconfig.cache
+C:\HTL\Htl cooding\031.hailstone_Sequenze\obj\Debug\net6.0\ref\031.hailstone_Sequenze.dll
